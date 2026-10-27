@@ -1,0 +1,42 @@
+[
+  {
+    "file": "facture1.txt",
+    "data": {
+      "invoice_number": "778",
+      "date": "2025-09-12",
+      "vendor": "Dupont & Fils",
+      "total": 342.9,
+      "currency": "EUR"
+    }
+  },
+  {
+    "file": "facture2.txt",
+    "data": {
+      "invoice_number": "INV-2045",
+      "date": "2025-03-05",
+      "vendor": "Global Tech Ltd.",
+      "total": 1250.0,
+      "currency": "USD"
+    }
+  },
+  {
+    "file": "facture3.txt",
+    "data": {
+      "invoice_number": "55/B",
+      "date": "2025-02-28",
+      "vendor": "Société Martin SA",
+      "total": 89.99,
+      "currency": "EUR"
+    }
+  },
+  {
+    "file": "facture4.txt",
+    "data": {
+      "invoice_number": null,
+      "date": null,
+      "vendor": "Boulangerie Soleil",
+      "total": 12.0,
+      "currency": "EUR"
+    }
+  }
+]
